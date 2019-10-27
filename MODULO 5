@@ -1,0 +1,108 @@
+% Encoding: UTF-8
+
+@BOOK{Ahmad2011,
+  title = {Affective Computing and Sentiment Analysis: Emotion, Metaphor and
+	Terminology},
+  publisher = {Springer},
+  year = {2011},
+  editor = {Springer},
+  author = {Khurshid Ahmad},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Apoorva2015,
+  title = {Sentiment Analysis for Market Prediction Using DE \& GA},
+  publisher = {LAP LAMBERT Academic Publishing},
+  year = {2015},
+  editor = {LAP LAMBERT Academic Publishing},
+  author = {Gupta Apoorva},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Basant2016,
+  title = {Prominent Feature Extraction for Sentiment Analysis (Socio-Affective
+	Computing Book 2)},
+  publisher = {Springer},
+  year = {2016},
+  editor = {Springer},
+  author = {Basant Agarwal, Namita Mittal},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Cambria2015,
+  title = {Sentic Computing: A Common-Sense-Based Framework for Concept-Level
+	Sentiment Analysis},
+  publisher = {Springer},
+  year = {2015},
+  editor = {Springer},
+  author = {Cambria Erik, Hussain Amir},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Federico2016,
+  title = {Sentiment Analysis in Social Networks},
+  publisher = {Morgan Kaufmann},
+  year = {2016},
+  editor = {Morgan Kaufmann},
+  author = {Federico Alberto Pozzi, Elisabetta Fersini, Enza Messina, Bing Liu},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Kesharwani2017,
+  title = {Movie Rating Prediction Based on Twitter Sentiment Analysis: Twitter
+	Sentiment Analysis},
+  publisher = {LAP LAMBERT Academic Publishing},
+  year = {2017},
+  editor = {LAP LAMBERT Academic Publishing},
+  author = {Abhishek Kesharwani},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Liu2015,
+  title = {Sentiment Analysis: Mining Opinions, Sentiments, and Emotions (English
+	Edition)},
+  publisher = {Cambridge University Press},
+  year = {2015},
+  editor = {Cambridge University Press},
+  author = {Bing Liu},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{VALENTINA2016,
+  title = {GUIDA AL TEXT MINING E ALLA SENTIMENT ANALYSIS CON R},
+  publisher = {AUTOR-EDITOR},
+  year = {2016},
+  editor = {AUTOR-EDITOR},
+  author = {PORCU VALENTINA},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@BOOK{Witold2016,
+  title = {Sentiment Analysis and Ontology Engineering: An Environment of Computational
+	Intelligence},
+  publisher = {Springer},
+  year = {2016},
+  editor = {Springer},
+  author = {Witold Pedrycz, Shyi-Ming Chen},
+  __markedentry = {[USUARIO]},
+  owner = {USUARIO},
+  timestamp = {2019.10.15}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
